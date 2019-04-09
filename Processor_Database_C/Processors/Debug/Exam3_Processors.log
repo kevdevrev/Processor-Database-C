@@ -1,0 +1,47 @@
+﻿  processor_kevingaleano.c
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\kevheader.h(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\kevheader.h(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(56): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(73): warning C4020: 'addProcessor': too many actual parameters
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(139): warning C4133: 'return': incompatible types - from 'int *' to 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(145): warning C4133: 'function': incompatible types - from 'char [8]' to 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(146): warning C4133: 'function': incompatible types - from 'char [12]' to 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(147): warning C4133: 'function': incompatible types - from 'char [5]' to 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(150): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(150): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(151): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(153): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(167): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(203): warning C4477: 'sprintf' : format string '%.1f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(203): warning C4477: 'sprintf' : format string '%.1f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(372): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(423): warning C4047: 'return': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(446): warning C4047: 'return': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(453): warning C4047: 'function': 'int' differs in levels of indirection from 'int **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(453): warning C4024: 'intValidator': different types for formal and actual parameter 2
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(526): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(528): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(533): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(535): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(540): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(542): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(550): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(550): warning C4024: 'stringValidator': different types for formal and actual parameter 1
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(550): warning C4133: 'function': incompatible types - from 'char [5]' to 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(501): warning C4101: 'c': unreferenced local variable
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(577): warning C4477: 'sprintf' : format string '%.1f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(577): warning C4477: 'sprintf' : format string '%.1f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(700): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(702): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(716): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(718): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(725): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(727): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(733): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(735): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(749): warning C4047: '=': 'PROCESSOR **' differs in levels of indirection from 'PROCESSOR *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(751): warning C4047: '=': 'PROCESSOR *' differs in levels of indirection from 'PROCESSOR **'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(767): warning C4018: '<=': signed/unsigned mismatch
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(769): warning C4133: 'function': incompatible types - from 'PROCESSOR *' to 'char *'
+c:\users\kev\onedrive\documents\c\exam3_processors\exam3_processors\processor_kevingaleano.c(773): warning C4018: '>': signed/unsigned mismatch
+  Exam3_Processors.vcxproj -> C:\Users\kev\OneDrive\Documents\C\Exam3_Processors\Debug\Exam3_Processors.exe
